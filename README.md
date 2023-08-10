@@ -20,12 +20,10 @@ Machine_learning.ipynb
 ### 3. Data Information
 ### 4. Data Visualization
 ### 5. Machine Learning Models
-5.1 
 
-2. Linear Regression
-3. Multi-Linear Regression
+5.1 Linear Regression
 
-5.2 
+5.2 Multi-Linear Regression
 
 5.3 Random Forest
 
