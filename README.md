@@ -21,11 +21,20 @@ Machine_learning.ipynb
 ### 4. Data Visualization
 ### 5. Machine Learning Models
 5.1 Linear Regression
+
 5.2 Multi-Linear Regression
+
 5.3 Random Forest
+
 5.4XGBoost
+
 5.5 Decision Tree (CART)
+
 5.6 Generalized Regression Neural Network (GRNN)
+
 5.7 Artificial Neural Networks (ANNs)
+
 5.8 Gradient Boosting
+
 5.9 Ordinary Least Squares (OLS)
+
