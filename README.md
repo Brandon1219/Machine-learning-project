@@ -11,3 +11,21 @@ The main goals of this project are:
 ## Notes
 This project serves as an artifact for the dissertation, demonstrating the implementation and evaluation of machine learning models for real estate price prediction in Taiwan.
 Feel free to customize the code and experiment with different model configurations.
+
+## Table of Contents
+Machine_learning.ipynb
+
+### 1. Introduction
+### 2. Data Preprocessing
+### 3. Data Information
+### 4. Data Visualization
+### 5. Machine Learning Models
+5.1 Linear Regression
+5.2 Multi-Linear Regression
+5.3 Random Forest
+5.4XGBoost
+5.5 Decision Tree (CART)
+5.6 Generalized Regression Neural Network (GRNN)
+5.7 Artificial Neural Networks (ANNs)
+5.8 Gradient Boosting
+5.9 Ordinary Least Squares (OLS)
